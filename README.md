@@ -1,2 +1,33 @@
-# Smart-To-do-App
-A clean and responsive To-Do List app built with HTML, CSS, and JavaScript. Supports task filtering and local storage persistence.
+# 📝 Smart To-Do App
+
+A clean and minimal To-Do List web application built with **HTML, CSS, and JavaScript**.  
+Tasks are saved in the browser using **localStorage**, so your list stays even after refreshing.
+
+---
+
+## 🚀 Live Demo
+
+👉 (Add your GitHub Pages link here)
+
+---
+
+## ✨ Features
+
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑 Delete tasks
+- ✔ Mark tasks as completed
+- 🔎 Filter tasks (All / Active / Completed)
+- 💾 Persistent storage using localStorage
+- 📱 Responsive design
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Browser Local Storage API
+
+---
