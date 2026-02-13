@@ -7,7 +7,7 @@ Tasks are saved in the browser using **localStorage**, so your list stays even a
 
 ## 🚀 Live Demo
 
-👉 (Add your GitHub Pages link here)
+👉 https://toral-7.github.io/Smart-To-do-App/
 
 ---
 
